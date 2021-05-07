@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohammad-awad-ds, I hold a Chemical Engineering B.Sc. degree.
-- 👀 I’m interested in machine learning applications in energy, chemical and environmental data projects/
+- 👀 I’m interested in machine learning applications in energy, chemical and environmental data projects.
 - 🌱 I’m currently learning online and I'm planning to pursue a graduate degree.
 - 💞️ I’m planning to collaborate on interesting projects in the future.
 - 📫 You can reach me at m.28.awad@gmail.com
