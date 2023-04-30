@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohammad-awad-ds, I hold a B.Sc. in Chemical Engineering.
+- 👋 Hi, I’m @mohammad-awad-ds, I’m currently pursuing a graduate degree in Data Science at Princess Sumaya University of Technology (PSUT), I hold a BSc in Chemical Engineering and enjoy solving challenging problems, automating processes, conducting data visualization and modeling.
+
 - 👀 I’m interested in the applications of machine learning in many domains including healthcare, operations, energy, manufacturing, chemical and environmental data projects.
-- 🌱 I’m currently pursuing a graduate degree in Data Science at Princess Sumaya University of Technology (PSUT).
 - 💞️ I’m planning to collaborate on interesting projects in the future.
 - 📫 You can reach me at mohammadawad28@gmail.com
 
