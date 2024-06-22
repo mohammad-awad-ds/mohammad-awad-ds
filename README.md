@@ -11,4 +11,4 @@ I recommend the following repository which contains notebooks of my work on dete
 </a>
 
 
-<p> You're welcome to reach me on my LinkedIn profile at: <a href= "https://linkedin.com/in/mma28"> </p>
+<p> You're welcome to reach me on my LinkedIn profile at: <a href= "https://linkedin.com/in/mma28">Mohammad Awad</a> </p>
