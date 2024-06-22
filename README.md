@@ -9,4 +9,4 @@ I am Mohammad Awad, a data enthusiast based in Amman with an M.Sc. in Data Scien
 </a>
 
 
-You're welcome to reach me on my LinkedIn profile at: linkedin.com/in/mma28
+You're welcome to reach me on my LinkedIn profile at: <a href= "https://linkedin.com/in/mma28">
