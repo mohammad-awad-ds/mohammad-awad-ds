@@ -10,7 +10,8 @@ I recommend the following repository which contains notebooks of my work on dete
   <img src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/750358f2-4533-4788-a5fe-20c6b21defd6" alt="object detection">
 </a>
 
-TO view our NLP based project "Arabic language hatespeech detection in YouTube comments and Twitter posts using Spark, NLP, and Docker". You can visit the following repo: <a href="https://github.com/mohammad-awad-ds/NLP-and-Spark-Project-for-Hatespeech-Detection/tree/main">NLP and Spark Project for Hate Speech Detection</a>
+
+To view our NLP based project "Arabic language hatespeech detection in YouTube comments and Twitter posts using Spark, NLP, and Docker". You can visit the following repo: <a href="https://github.com/mohammad-awad-ds/NLP-and-Spark-Project-for-Hatespeech-Detection/tree/main">NLP and Spark Project for Hate Speech Detection</a>
 
 <a href="https://github.com/mohammad-awad-ds/NLP-and-Spark-Project-for-Hatespeech-Detection/tree/main">
   <img src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/f379ce79-1ec3-4341-995a-68ccc31f27f1" alt="Hate Speech Detection">
