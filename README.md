@@ -19,6 +19,11 @@ I am Mohammad Awad, a data enthusiast based in Amman with an M.Sc. in Data Scien
 </a>
 
 
+- Team project on Machine Learning over Knowledge Graphs for Loan Default Prediction using RDF2VEC, you can visit the following repo: <a href="https://github.com/mohammad-awad-ds/LoanDefault_Prediction_ML_Over_KnowledgeGraphs/tree/main">Loan Default Prediction using ML over Knowledge Graphs</a>
+
+<a href="https://github.com/mohammad-awad-ds/LoanDefault_Prediction_ML_Over_KnowledgeGraphs/tree/main">
+  <img width="1080" alt="GraphVisualizedSample" src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/d3d5d841-0982-4655-93e8-fbdffcf7035b">
+</a>
 
 
 <p> You're welcome to reach me on my LinkedIn profile at: <a href= "https://linkedin.com/in/mma28">Mohammad Awad</a> </p>
