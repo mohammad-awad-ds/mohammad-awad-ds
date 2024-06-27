@@ -24,10 +24,10 @@ You'll find additional interesting projects to view below:
   <img width="1080" alt="GraphVisualizedSample" src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/d3d5d841-0982-4655-93e8-fbdffcf7035b">
 </a>
 
-- <a href="https://github.com/mohammad-awad-ds/DataVisualization/tree/main">Exploratory Data Analysis (EDA) and Visualization using R</a>
+- <a href="https://github.com/mohammad-awad-ds/Data_Analysis_and_Visualization/tree/main">Exploratory Data Analysis (EDA) and Visualization using R</a>
 
-<a href="https://github.com/mohammad-awad-ds/DataVisualization/tree/main">
-  <img width="1080" alt="GraphVisualizedSample" src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/5607f883-1a99-4515-b4f8-1311e232695a">
+<a href="https://github.com/mohammad-awad-ds/Data_Analysis_and_Visualization/tree/main">
+  <img width="1080" alt="DataViz" src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/5607f883-1a99-4515-b4f8-1311e232695a">
 </a>
 
 
