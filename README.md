@@ -10,20 +10,26 @@ I am Mohammad Awad, a data enthusiast based in Amman with an M.Sc. in Data Scien
   <img src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/750358f2-4533-4788-a5fe-20c6b21defd6" alt="object detection">
 </a>
 
-
-
-- To view our NLP based project "Arabic language hatespeech detection in YouTube comments and Twitter posts using Spark, NLP, and Docker". You can visit the following repo: <a href="https://github.com/mohammad-awad-ds/NLP-and-Spark-Project-for-Hatespeech-Detection/tree/main">NLP and Spark Project for Hate Speech Detection</a>
+You'll find additional interesting projects to view below: 
+- <a href="https://github.com/mohammad-awad-ds/NLP-and-Spark-Project-for-Hatespeech-Detection/tree/main">Arabic language hatespeech detection in YouTube comments and Twitter posts using Spark, NLP, and Docker</a>
 
 <a href="https://github.com/mohammad-awad-ds/NLP-and-Spark-Project-for-Hatespeech-Detection/tree/main">
   <img src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/f379ce79-1ec3-4341-995a-68ccc31f27f1" alt="Hate Speech Detection">
 </a>
 
 
-- Team project on Machine Learning over Knowledge Graphs for Loan Default Prediction using RDF2VEC, you can visit the following repo: <a href="https://github.com/mohammad-awad-ds/LoanDefault_Prediction_ML_Over_KnowledgeGraphs/tree/main">Loan Default Prediction using ML over Knowledge Graphs</a>
+- <a href="https://github.com/mohammad-awad-ds/LoanDefault_Prediction_ML_Over_KnowledgeGraphs/tree/main">Team project on Machine Learning over Knowledge Graphs for Loan Default Prediction using RDF2VEC</a>
 
 <a href="https://github.com/mohammad-awad-ds/LoanDefault_Prediction_ML_Over_KnowledgeGraphs/tree/main">
   <img width="1080" alt="GraphVisualizedSample" src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/d3d5d841-0982-4655-93e8-fbdffcf7035b">
 </a>
+
+- <a href="https://github.com/mohammad-awad-ds/DataVisualization/tree/main">Exploratory Data Analysis (EDA) and Visualization using R</a>
+
+<a href="https://github.com/mohammad-awad-ds/DataVisualization/tree/main">
+  <img width="1080" alt="GraphVisualizedSample" src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/5607f883-1a99-4515-b4f8-1311e232695a">
+</a>
+
 
 
 <p> You're welcome to reach me on my LinkedIn profile at: <a href= "https://linkedin.com/in/mma28">Mohammad Awad</a> </p>
