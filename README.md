@@ -32,4 +32,13 @@ You'll find additional interesting projects to view below:
 
 
 
+- <a href="https://github.com/mohammad-awad-ds/Operations-Research-Prescriptive-Analytics/tree/main">Outpatient Clinic Capacity Planning</a>
+
+<a href="https://github.com/mohammad-awad-ds/Operations-Research-Prescriptive-Analytics/tree/main">
+  <img width="1080" alt="PatCap" src="">https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/04a5b98d-dfbd-4da2-a31f-64e23edf3a50</a>
+
+
+
+
+
 <p> You're welcome to reach me on my LinkedIn profile at: <a href= "https://linkedin.com/in/mma28">Mohammad Awad</a> </p>
