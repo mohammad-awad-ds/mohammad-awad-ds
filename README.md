@@ -35,23 +35,20 @@ I recommend viewing the following repository, <a href="https://github.com/mohamm
       </a>
     </td>
   </tr>
-  <tr>
-    <td valign="top">
-      <p>- <a href="https://github.com/mohammad-awad-ds/Operations-Research-Prescriptive-Analytics/tree/main">Outpatient Clinic Capacity Planning (Operations Research Project using Python and CPLEX)</a></p>
-      <a href="https://github.com/mohammad-awad-ds/Operations-Research-Prescriptive-Analytics/tree/main">
-        <img width="1080" alt="PatCap" src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/04a5b98d-dfbd-4da2-a31f-64e23edf3a50">
-      </a>
-    </td>
-    <td valign="top"></td>
-  </tr>
-      <td valign="top">
-      <p>- <a href="https://lookerstudio.google.com/reporting/d365ca3d-edef-4c91-9b5c-33942e91e77b">Simply Music Business Dashboard using Looker Studio (Bird's eye and detailed views))</a></p>
-      <a href="https://lookerstudio.google.com/reporting/d365ca3d-edef-4c91-9b5c-33942e91e77b">
-        <img width="1080" alt="PatCap" src="https://github.com/mohammad-awad-ds/Dashboards/blob/main/images/birds-eye-view.PNG">
-      </a>
-    </td>
-    <td valign="top"></td>
-  </tr>
+<tr>
+  <td valign="top">
+    <p>- <a href="https://github.com/mohammad-awad-ds/Operations-Research-Prescriptive-Analytics/tree/main">Outpatient Clinic Capacity Planning (Operations Research Project using Python and CPLEX)</a></p>
+    <a href="https://github.com/mohammad-awad-ds/Operations-Research-Prescriptive-Analytics/tree/main">
+      <img width="1080" alt="PatCap" src="https://github.com/mohammad-awad-ds/mohammad-awad-ds/assets/64756947/04a5b98d-dfbd-4da2-a31f-64e23edf3a50">
+    </a>
+  </td>
+  <td valign="top">
+    <p>- <a href="https://lookerstudio.google.com/reporting/d365ca3d-edef-4c91-9b5c-33942e91e77b">Simply Music Business Dashboard using Looker Studio (Bird's eye and detailed views)</a></p>
+    <a href="https://lookerstudio.google.com/reporting/d365ca3d-edef-4c91-9b5c-33942e91e77b">
+      <img width="1080" alt="Music Dashboard" src="https://github.com/mohammad-awad-ds/Dashboards/blob/main/images/birds-eye-view.PNG">
+    </a>
+  </td>
+</tr>
 </table>
 
 
