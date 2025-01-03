@@ -44,6 +44,14 @@ I recommend viewing the following repository, <a href="https://github.com/mohamm
     </td>
     <td valign="top"></td>
   </tr>
+      <td valign="top">
+      <p>- <a href="https://lookerstudio.google.com/reporting/d365ca3d-edef-4c91-9b5c-33942e91e77b">Simply Music Business Dashboard using Looker Studio (Bird's eye and detailed views))</a></p>
+      <a href="https://lookerstudio.google.com/reporting/d365ca3d-edef-4c91-9b5c-33942e91e77b">
+        <img width="1080" alt="PatCap" src="https://github.com/mohammad-awad-ds/Dashboards/blob/main/images/birds-eye-view.PNG">
+      </a>
+    </td>
+    <td valign="top"></td>
+  </tr>
 </table>
 
 
